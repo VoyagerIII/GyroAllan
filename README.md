@@ -6,7 +6,7 @@
 
 ## 运行结果
 
-![](https://github.com/XinLiGitHub/GyroAllan/raw/master/bmp.bmp) <br>
+![](https://github.com/VoyagerIII/GyroAllan/raw/master/bmp.bmp) <br>
 
 量化噪声      X轴：0.139419 Y轴：0.062898 Z轴：0.235451  单位：deg/h <br>
 角度随机游走  X轴：2.498092 Y轴：0.082942 Z轴：2.725435  单位：deg/h^0.5 <br>
